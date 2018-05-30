@@ -9,3 +9,6 @@ Or maybe work on EMR
 
 I am unsure. I will report when I have more figured out.
 
+What do you other programmer's think is the best avenue for me to take. What languages and how to better teach myself for a career in programming without a college degree in CS?
+
+
